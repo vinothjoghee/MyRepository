@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="TestNG(failed)">
+    <parameter name="rm" value="local"/>
+    <parameter name="bn" value="chrome"/>
+    <classes>
+      <class name="com.k2js.MavenSelenium.testrunner.NTRunner">
+        <methods>
+          <include name="setup"/>
+          <include name="readBrowserDate"/>
+          <include name="VerifyHomePageTitle"/>
+        </methods>
+      </class> <!-- com.k2js.MavenSelenium.testrunner.NTRunner -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+</suite> <!-- Failed suite [Suite] -->
