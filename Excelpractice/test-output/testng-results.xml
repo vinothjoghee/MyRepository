@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-05T03:58:16Z" name="Default suite" finished-at="2019-03-05T03:58:16Z" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2019-03-05T03:58:16Z" name="Default test" finished-at="2019-03-05T03:58:16Z" duration-ms="125">
+      <class name="com.k2js.Excellearning.Excelpractice.XLRW4">
+        <test-method signature="VerifyRegisterPage([Ljava.lang.String;)[pri:0, instance:com.k2js.Excellearning.Excelpractice.XLRW4@18bc345]" started-at="2019-03-05T09:28:16Z" name="VerifyRegisterPage" data-provider="oye" finished-at="2019-03-05T09:28:16Z" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62163b39]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterPage -->
+        <test-method signature="VerifyRegisterPage([Ljava.lang.String;)[pri:0, instance:com.k2js.Excellearning.Excelpractice.XLRW4@18bc345]" started-at="2019-03-05T09:28:16Z" name="VerifyRegisterPage" data-provider="oye" finished-at="2019-03-05T09:28:16Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@20a8a64e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterPage -->
+        <test-method signature="VerifyRegisterPage([Ljava.lang.String;)[pri:0, instance:com.k2js.Excellearning.Excelpractice.XLRW4@18bc345]" started-at="2019-03-05T09:28:16Z" name="VerifyRegisterPage" data-provider="oye" finished-at="2019-03-05T09:28:16Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62f4ff3b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterPage -->
+      </class> <!-- com.k2js.Excellearning.Excelpractice.XLRW4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
