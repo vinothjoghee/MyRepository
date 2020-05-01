@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arrays/src"/>
+	<classpathentry kind="src" path="CollectionExamples/src"/>
+	<classpathentry kind="src" path="Cucumber/src/main/java"/>
+	<classpathentry kind="src" path="Cucumber/src/test/java"/>
+	<classpathentry kind="src" path="CucumberFramwork/src/main/java"/>
+	<classpathentry kind="src" path="CucumberFramwork/src/test/java"/>
+	<classpathentry kind="src" path="Excelpractice/src/test/java"/>
+	<classpathentry kind="src" path="Excelsheet/src/main/java"/>
+	<classpathentry kind="src" path="Excelsheet/src/test/java"/>
+	<classpathentry kind="src" path="InteriewProcess/src"/>
+	<classpathentry kind="src" path="MavenfinalSeleniumfw/src/test/java"/>
+	<classpathentry kind="src" path="MavenSeleniumBasic/src/test/java"/>
+	<classpathentry kind="src" path="oops/src"/>
+	<classpathentry kind="src" path="SeleniumBasic/src"/>
+	<classpathentry kind="src" path="String/src"/>
+	<classpathentry kind="src" path="vj/src"/>
+	<classpathentry kind="src" path="vjPrograms/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
