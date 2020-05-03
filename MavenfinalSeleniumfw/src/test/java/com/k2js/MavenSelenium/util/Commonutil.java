@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
 
-import org.apache.commons.io.FileUtils;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
@@ -36,7 +36,7 @@ public class Commonutil {
 		TakesScreenshot ts = (TakesScreenshot) BrowserFactory.getBrowser();
 		File src = ts.getScreenshotAs(OutputType.FILE);
 		File dest = new File(".\\Screenshots\\" + getCurrentDate() + ".png");
-		FileUtils.copyFile(src, dest);
+		//FileUtils.copyFile(src, dest);
 
 	}
 }
